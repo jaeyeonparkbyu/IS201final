@@ -1,0 +1,76 @@
+
+body {
+    background-color: rgb(234, 234, 241);
+    font-family:Arial, Helvetica, sans-serif
+    
+}
+.common {
+    background-color: rgb(221, 220, 220);
+    border: solid 2px black;
+    position: absolute;
+
+}
+
+.Navigation {
+    font-size: 20px;
+    top: 20px;
+    left: 20px;
+    right: 20px;
+    height: 150px;
+}
+
+.Tableau {
+    font-size: 20px;
+    background-color: blue;
+    top: 20px;
+    bottom: 20px;
+    left: 20px;
+    right: 20px;
+
+}
+
+
+.Footer {
+    bottom: 5px;
+    height: 50px;
+    left: 5px;
+    right: 5px;
+    font-size: 15px;
+    color: rgba(228, 18, 18, 0.322);
+    text-align: center;
+}
+
+.style {
+    font-weight: bold;
+    font-style: normal;
+    color: rgb(26, 25, 25);
+    align-content: center;
+    max-width: 700; max-height: 700;
+}
+
+/* visited link */
+a:visited {
+    color: green;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: red;
+  }
+  
+  /* selected link */
+  a:active {
+    color: yellow;
+  }
+
+  .tableausize{
+    max-width: 300;
+    max-height: 300;
+  }
+
+  p{
+      font-size: 25px;
+      font-family: Arial, Helvetica, sans-serif;
+      color: rgb(26, 25, 25);
+      text-align: left;
+  }

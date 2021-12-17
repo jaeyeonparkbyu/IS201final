@@ -1,0 +1,62 @@
+
+
+.headwordstyle{
+    color: whitesmoke;
+    font-size: 20px; font-family:'Times New Roman', Times, serif;
+}
+
+.intro {
+  color: rgba(0, 0, 0, 0.747);
+  font-size: medium;
+}
+.bold{
+    font-size: 30px;
+    font-weight: bold;
+    font-style: normal;
+    color:rgba(179, 7, 7, 0.747);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  
+}
+.footerstyle{
+  font-size: 15px;
+  font-weight:200;
+  text-align: center;
+  color: rgb(255, 102, 0);
+}
+.btn{
+    left:50%;
+}
+
+.bodywordstyle{
+    align-content:center;
+    color: rgb(248, 246, 246);
+    font-size: 20px;
+
+}
+
+.subheading {
+  color: rgb(253, 253, 253);
+  font-weight: 1500;
+  font-size: 50px;
+}
+
+  
+  /* visited link */
+  a:visited {
+    color: green;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: red;
+  }
+  
+  /* selected link */
+  a:active {
+    color: yellow;
+  }
+
+  .tableausize{
+    max-width: 300;
+    max-height: 300;
+  }
